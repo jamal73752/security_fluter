@@ -144,7 +144,7 @@ class _AppPermissionsScreenState extends State<AppPermissionsScreen> {
                 ),
                 onPressed: () {
 
-                  
+
                   bool anyGranted = false;
                   for (var p in _permissions){
                     if (p['isGranted']){
