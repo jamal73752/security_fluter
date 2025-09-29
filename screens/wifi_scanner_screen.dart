@@ -11,6 +11,7 @@ class WiFiScannerScreen extends StatefulWidget {
     // List<WiFiNetwork> _networks = [];
     // int _selectedTab = 0; // 0: الشبكات, 1: التحليل
 
+
     @override
     Widget build(BuildContext context) {
     return Scaffold(
